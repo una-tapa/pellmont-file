@@ -1,5 +1,5 @@
 # Hello
-Hello, Pellmont. Sorry it took me a while. 
+Hello, Pellmont. Sorry it took me a while.  My team had really really bad weather that caused power outage for a long time. 
 
 ## Trace 
 I uploaded `bootstrap.properties` that has the trace option we would like you to provide us.
