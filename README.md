@@ -11,5 +11,6 @@ Then our dev will review and hopefully approve the merge!
 ## Jar 
 I am not sure if you would like to try.. but just thought to upload. 
 - I uploaded `com.ibm.ws.webcontainer.security_1_0.48.jar` that has a switch to not to add the hashtable. 
-- The code change can be checked in `WebProviderAuthenticatorHelper.jad`, which is not elegant code.. 
+- Please save a copy of original jar, and place the jar under `\wlp\lib` directory. 
+- The code change I made can be checked in `WebProviderAuthenticatorHelper.jad`, which is not elegant code.. I need to work on my skill. 
 - To turn on/off, please see `jvm.options`. Please place it under the same directory where `sever.xml` and `bootstrap.properties` are.  
